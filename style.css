@@ -1,0 +1,133 @@
+article{
+    width: 60%;
+    justify-content: center;
+    text-align: center;
+    background-color: white;
+    margin: 55px;
+    padding: 2%;
+}
+h1{
+    justify-content: center;
+    text-align: center;
+    font-family: cursive;
+    background-color: #fff4a1;
+}
+.Red{
+    box-shadow: 10px 5px 10px 10px Red;
+    background-color: white;
+    width: 500px;
+}
+.MediumBlue {
+    box-shadow: 10px 5px 10px 10px MediumBlue;
+    background-color: white;
+    width: 500px;
+}
+.SlateBlue{
+    box-shadow: 10px 5px 10px 10px SlateBlue;
+    background-color: white;
+    width: 500px;
+}
+.SpringGreen{
+    box-shadow: 10px 5px 10px 10px SpringGreen;
+    background-color: white;
+    width: 500px;
+}
+
+.IndianRed{
+    box-shadow: 10px 5px 10px 10px IndianRed;
+    background-color: white;
+    width: 500px;
+}
+.cred{
+    width: 50px;
+    height: 50px;
+    border-radius: 80%;
+    background-color: red;
+    line-height: 50px;
+    color: white;
+}
+.cMediumBlue{
+    width: 50px;
+    height: 50px;
+    border-radius: 80%;
+    background-color: MediumBlue ;
+    line-height: 50px;
+    color: white;
+}
+.cSlateBlue{
+    width: 50px;
+    height: 50px;
+    border-radius: 80%;
+    background-color: SlateBlue ;
+    line-height: 50px;
+    color: white;
+}
+.cSpringGreen{
+    width: 50px;
+    height: 50px;
+    border-radius: 80%;
+    background-color: SpringGreen ;
+    line-height: 50px;
+    color: white;
+}
+.cIndianRed{
+    width: 50px;
+    height: 50px;
+    border-radius: 80%;
+    background-color: IndianRed ;
+    line-height: 50px;
+    color: white;
+}
+body{
+background-image: url(https://achinsk.algoritmika.org/_nuxt/img/7d72616.png);
+}
+.Orange{
+    background-color: #f3ff69 ;
+    width: 300px;
+    height: 250px;
+    color: #602b7a;
+    text-align: center;
+    border-radius: 10%;
+}
+.Gold{
+    background-color: Gold ;
+    width: 300px;
+    height: 250px;
+    color: #602b7a;
+    text-align: center;
+    border-radius: 10%;
+}
+.LimeGreen{
+    background-color: LimeGreen ;
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    color: white;
+    border-radius: 10%;
+}
+.DarkOrchid{
+    background-color: DarkOrchid ;
+    width: 300px;
+    height: 250px;
+    color: white;
+    text-align: center;
+    
+    border-radius: 10%;
+}
+.mias article:hover{
+    transform: scale(1.2);
+}
+footer p {
+    padding-left: 30px;
+    color: white;
+}
+.ah{
+    background-color: #fff4a1;
+}
+.mias{
+    display: flex;
+    
+}
+iframe{
+    margin-left: 250px;
+}
